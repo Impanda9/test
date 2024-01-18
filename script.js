@@ -3,7 +3,7 @@ function showButtons() {
 }
 
 function editAnswer() {
-  window.location.href = "3.ViAnswr.html";
+  window.location.href = "https://github.com/orgs/community/discussions/23522";
 }
 
 function watchAgain() {
